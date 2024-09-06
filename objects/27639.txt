@@ -52,8 +52,8 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=1
 ignoredCont=1
 spriteID=127379
-pos=-9.000000,-15.000000
-rot=0.000000
+pos=-8.000000,-8.000000
+rot=0.395000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -62,8 +62,8 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 ignoredCont=1
 spriteID=127380
-pos=6.000000,-16.000000
-rot=0.000000
+pos=4.000000,-4.000000
+rot=-0.375000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
