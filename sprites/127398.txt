@@ -1,1 +1,1 @@
-sealToyBody2 0 17 6
+sealToyBody 0 17 6

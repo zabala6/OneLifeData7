@@ -1,1 +1,1 @@
-sealToyTail2 0 3 0
+sealToyTail 0 3 0
