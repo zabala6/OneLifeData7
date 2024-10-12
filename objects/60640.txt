@@ -6,7 +6,7 @@ permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=1,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
+blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
 rValue=0.000000
@@ -27,7 +27,7 @@ sounds=78:0.250000,147:0.250000,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=5#timeStretch=1.000000
-slotSize=2.000000
+slotSize=0.000000
 slotsLocked=0
 slotPos=-82.000000,36.000001,vert=0,parent=-1
 slotPos=-43.999998,36.000000,vert=0,parent=-1
@@ -63,7 +63,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=319
-pos=27.999992,49.000000
+pos=27.999992,47.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -78,4 +78,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=62
+pixHeight=60
